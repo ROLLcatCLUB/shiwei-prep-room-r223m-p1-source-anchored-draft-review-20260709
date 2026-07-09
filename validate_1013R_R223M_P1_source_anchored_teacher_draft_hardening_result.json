@@ -1,0 +1,673 @@
+{
+  "passed": true,
+  "check_count": 133,
+  "failed": 0,
+  "failures": [],
+  "checks": [
+    {
+      "name": "required_file:R223M_P1_teacher_readable_integrated_draft_v2.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_teacher_readable_integrated_draft_v2.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_teacher_readable_integrated_draft_v2.md",
+      "passed": true,
+      "detail": "12852"
+    },
+    {
+      "name": "required_file:R223M_P1_teacher_readable_integrated_draft_v2.html",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_teacher_readable_integrated_draft_v2.html"
+    },
+    {
+      "name": "non_empty:R223M_P1_teacher_readable_integrated_draft_v2.html",
+      "passed": true,
+      "detail": "15936"
+    },
+    {
+      "name": "required_file:R223M_P1_source_anchor_table.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_source_anchor_table.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_source_anchor_table.md",
+      "passed": true,
+      "detail": "4012"
+    },
+    {
+      "name": "required_file:R223M_P1_gold_sample_language_recovery_notes.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_gold_sample_language_recovery_notes.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_gold_sample_language_recovery_notes.md",
+      "passed": true,
+      "detail": "1642"
+    },
+    {
+      "name": "required_file:R223M_P1_teacher_talk_polish_notes.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_teacher_talk_polish_notes.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_teacher_talk_polish_notes.md",
+      "passed": true,
+      "detail": "1016"
+    },
+    {
+      "name": "required_file:R223M_P1_evidence_alignment_notes.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_evidence_alignment_notes.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_evidence_alignment_notes.md",
+      "passed": true,
+      "detail": "1146"
+    },
+    {
+      "name": "required_file:R223M_P1_before_after_compare_with_R223M.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_before_after_compare_with_R223M.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_before_after_compare_with_R223M.md",
+      "passed": true,
+      "detail": "1037"
+    },
+    {
+      "name": "required_file:R223M_P1_report.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\R223M_P1_report.md"
+    },
+    {
+      "name": "non_empty:R223M_P1_report.md",
+      "passed": true,
+      "detail": "1587"
+    },
+    {
+      "name": "required_file:README_FOR_GPT_REVIEW.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\README_FOR_GPT_REVIEW.md"
+    },
+    {
+      "name": "non_empty:README_FOR_GPT_REVIEW.md",
+      "passed": true,
+      "detail": "1361"
+    },
+    {
+      "name": "required_file:README.md",
+      "passed": true,
+      "detail": "D:\\Documents\\SmartEdu\\xiaobei-core\\outputs\\PREP_ROOM_RENDER_CANVAS_DEEPEN_V1\\1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING\\README.md"
+    },
+    {
+      "name": "non_empty:README.md",
+      "passed": true,
+      "detail": "740"
+    },
+    {
+      "name": "main_section:一、课时定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:二、教学依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:三、教学目标",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:四、教学重难点",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:五、教学准备",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:六、教学过程",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:七、评价与证据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:八、板书 / 大屏结构",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_section:九、附：生成依据与推理链说明",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:智造·新朋友",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:智造·新朋友",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:忆一忆：毛笔的诞生",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:忆一忆：毛笔的诞生",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:探一探：关键的结构",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:探一探：关键的结构",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:交流会：十万个为什么",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:交流会：十万个为什么",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:设计会：像设计师一样思考",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:设计会：像设计师一样思考",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:1+1 合作小设计",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:1+1 合作小设计",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:1+n 文具大变身",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:1+n 文具大变身",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:细细长长软软的线",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:细细长长软软的线",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:缠绕、盘圈",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:缠绕、盘圈",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:笔友汇",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:笔友汇",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:赠笔礼",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:赠笔礼",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:购买文具建议书",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:购买文具建议书",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_main:文具课堂使用指南",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "gold_language_in_recovery:文具课堂使用指南",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "source_status:confirmed_from_uploaded_gold_sample_docx",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "source_status:reconstructed_from_prior_audit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "source_status:system_reasoning",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "source_status:teacher_adjusted",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluation_anchor:我能发现新材料特性、新使用技法",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluation_anchor:我能和小伙伴一起合作完成学习任务",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "evaluation_anchor:我能在展示会中自信表达自己的想法",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_stage_id",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_formal_ui_false",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_card_wall_false",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "html_source_anchored_true",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "main_table_count_low",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "name": "html_card_classes_absent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "teacher_talk_has_questions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "component_embedded_not_card_wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "source_files_named",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "compare_keeps_output_form",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "readme_blocks_formal_ui",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:main:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:html:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:anchors:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:anchors:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:anchors:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:anchors:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:anchors:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:anchors:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:recovery:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:recovery:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:recovery:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:recovery:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:recovery:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:recovery:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:talk:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:talk:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:talk:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:talk:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:talk:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:talk:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:evidence:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:evidence:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:evidence:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:evidence:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:evidence:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:evidence:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:compare:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:report:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:正式 UI 已放行",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:formal UI approved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:R97B route implemented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:provider call enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:database write enabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "forbidden_absent:readme:R224 started",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "screenshot_exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "screenshot_non_empty",
+      "passed": true,
+      "detail": "775813"
+    },
+    {
+      "name": "smoke_json_valid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "smoke_no_horizontal_overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "smoke_not_card_wall",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "name": "smoke_key_sections_present",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
