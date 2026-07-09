@@ -1,0 +1,130 @@
+{
+  "stage_id": "1013R_R223M_P1_SOURCE_ANCHORED_TEACHER_DRAFT_HARDENING",
+  "status": "READY_FOR_SOURCE_ANCHORED_TEACHER_DRAFT_REVIEW",
+  "created_at_utc": "2026-07-09T07:39:57.609628+00:00",
+  "formal_ui": false,
+  "r97b_modified": false,
+  "runtime_model_prompt_db": false,
+  "source_docx_extracted": true,
+  "source_docx_files": [
+    "12.15????????.docx",
+    "????.docx",
+    "????.docx"
+  ],
+  "review_order": [
+    "R223M_P1_teacher_readable_integrated_draft_v2.html",
+    "R223M_P1_teacher_readable_integrated_draft_v2_screenshot.png",
+    "R223M_P1_teacher_readable_integrated_draft_v2.md",
+    "R223M_P1_source_anchor_table.md",
+    "R223M_P1_evidence_alignment_notes.md",
+    "R223M_P1_report.md"
+  ],
+  "teacher_first_review_question": "Does v2 keep the teacher-readable draft form while restoring source-anchored gold sample language?",
+  "files": [
+    {
+      "path": "_EXTRACT_12_15_我为文具代言_.json",
+      "size": 45693,
+      "sha256": "19CEDBF247CB853684AEA3738477D9C34E8FEA03D068326489534A87E02FB0DE"
+    },
+    {
+      "path": "_EXTRACT_12_15_我为文具代言_.txt",
+      "size": 21523,
+      "sha256": "3613E49C90359D0197F405E6EE5D4B6915D9A4606B68A09F2131CEFE4FAC6657"
+    },
+    {
+      "path": "_EXTRACT_上交教案.json",
+      "size": 10782,
+      "sha256": "899A595A698EF4281CF86B63E8D368FE4E161DF4C56077151AD676036CF90D40"
+    },
+    {
+      "path": "_EXTRACT_上交教案.txt",
+      "size": 7771,
+      "sha256": "F59DCB2387B6B73AA2C62FD5B08CFCE9F685919F6F16D3C6A0EFB479A9DDC5B2"
+    },
+    {
+      "path": "_EXTRACT_学习手册.json",
+      "size": 5532,
+      "sha256": "4229E74E98DF2A82B39FF40EFBCDAB80243E73288F5751432D527037A459202F"
+    },
+    {
+      "path": "_EXTRACT_学习手册.txt",
+      "size": 2062,
+      "sha256": "510B06F6C3D56D8C896936B3701F79F460154A36A84EC4938C382FB0DDE39CEB"
+    },
+    {
+      "path": "_SOURCE_DOCX_EXTRACTION_INDEX.json",
+      "size": 1726,
+      "sha256": "13006273F8F59FEF745D6C2D4558B21F3BACF01E4174465A21E74CBC0B1C5A65"
+    },
+    {
+      "path": "R223M_P1_before_after_compare_with_R223M.md",
+      "size": 1037,
+      "sha256": "21BA8AB26DBA3A7C785DCEEC318A690C02110C198AD6B5B1E59212B424EBD1FE"
+    },
+    {
+      "path": "R223M_P1_evidence_alignment_notes.md",
+      "size": 1146,
+      "sha256": "3499AD54B2FBB1A137288FB11F8214BB449E76FDCBAF396E13EA5CAED5F414D1"
+    },
+    {
+      "path": "R223M_P1_gold_sample_language_recovery_notes.md",
+      "size": 1642,
+      "sha256": "DB9242775DCC5085128F61D178E8EC9F5E3FC40AC226ED60054E3E3FAAA0E392"
+    },
+    {
+      "path": "R223M_P1_report.md",
+      "size": 1587,
+      "sha256": "266A0C205C67A1D4E9BC861816886B88164D3F22C9E63D7199D9A6D16AC5FE50"
+    },
+    {
+      "path": "R223M_P1_screenshot_smoke_result.json",
+      "size": 520,
+      "sha256": "112AD1C1DDE62F7A8A0F408749626AFC2685823E34C1A9189C8145EE87736CCA"
+    },
+    {
+      "path": "R223M_P1_source_anchor_table.md",
+      "size": 4012,
+      "sha256": "EED76AE9D8A5D0525AD0C7A491287A89C2CA836AA548E9EE940E92D129C5CDCC"
+    },
+    {
+      "path": "R223M_P1_teacher_readable_integrated_draft_v2.html",
+      "size": 15936,
+      "sha256": "5EA03CA19A391BBFBF08A97B30456DC7D8BBB949F278C305A1B8E408E50D414B"
+    },
+    {
+      "path": "R223M_P1_teacher_readable_integrated_draft_v2.md",
+      "size": 12852,
+      "sha256": "D8D957CBA94588D92C8E801C63C6142FFB6CE930FC6D0CE5BA8B488F93243040"
+    },
+    {
+      "path": "R223M_P1_teacher_readable_integrated_draft_v2_screenshot.png",
+      "size": 775813,
+      "sha256": "BB00857AC91850F23D6677C7685DD5FF1C9D10BC4DA98F7C2B8AC4C34F3F9C51"
+    },
+    {
+      "path": "R223M_P1_teacher_talk_polish_notes.md",
+      "size": 1016,
+      "sha256": "7A37D2B68A1D30D84AC2B1FDEBB1A4BF2E24422225D10329D1F37AA51C151AF7"
+    },
+    {
+      "path": "README.md",
+      "size": 740,
+      "sha256": "8520206CAA87F68B5EFE3756AF89E14E7411FF5E496C22F8B3614F30F8292307"
+    },
+    {
+      "path": "README_FOR_GPT_REVIEW.md",
+      "size": 1361,
+      "sha256": "62CDC30E7E800A822227FC2860D4C1AEF1B05E677AEB1171C2B1A05E902134D3"
+    },
+    {
+      "path": "validate_1013R_R223M_P1_source_anchored_teacher_draft_hardening.py",
+      "size": 6328,
+      "sha256": "DBCE0E63E9910DF68C6362257C90231FA6B4E00649CC99D25197EEAD7FCB9322"
+    },
+    {
+      "path": "validate_1013R_R223M_P1_source_anchored_teacher_draft_hardening_result.json",
+      "size": 17592,
+      "sha256": "59F495086361E4BD59D9B6E2AC46956A007EE96A3441D37E3B95D5AE04354CC0"
+    }
+  ]
+}
